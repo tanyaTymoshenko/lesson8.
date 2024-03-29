@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.body {
+    font-family: Lato;
+}
+
+[class*="__container"] {
+    max-width: 1230px;
+    margin: 0 auto;
+}
+
+.page__title {
+    color: rgb(30, 33, 44);
+    font-family: Lato;
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 130%;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 600px;
+    margin-bottom: 40px;
+}
+
+.page__text {
+    color: rgb(66, 69, 81);
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0%;
+    margin-bottom: 48px;
+
+}
+
+.list__title {
+    color: rgb(30, 33, 44);
+    font-family: Lato;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 0%;
+    margin-bottom: 24px;
+}
+
+
+.page__item-list {
+    color: rgb(66, 69, 81);
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0%;
+    margin-bottom: 4px;
+    margin-left: 32px;
+    padding-left: 24px;
+    background: url(../img/Vector@1x.png) 0 center no-repeat;
+}
+
+.page__title-about-curator {
+    color: rgb(66, 69, 81);
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0%;
+    margin-top: 68px;
+}
+
+.cody {
+    color: rgb(30, 33, 44);
+    font-family: Lato;
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 130%;
+    letter-spacing: 0%;
+    margin-bottom: 16px;
+}
+
+.page__text-about-curator {
+    color: rgb(120, 122, 128);
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0%;
+    margin-bottom: 32px;
+}
+
+.page__information-about-curator {
+    color: rgb(66, 69, 81);
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 160%;
+    letter-spacing: 0%;
+    margin-top: 37px;
+
+}
+
+.page__curator {
+    color: rgb(66, 69, 81);
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+    letter-spacing: 0%;
+}
+
+.about-curator1 {
+    background: url(../img/Star.png) 0 5px no-repeat;
+    padding-left: 24px;
+}
+
+.about-curator2 {
+    background: url(../img/play1.png) 0 5px no-repeat;
+    padding-left: 24px;
+}
+
+.about-curator3 {
+    background: url(../img/person.png) 0 5px no-repeat;
+    padding-left: 24px;
+}
